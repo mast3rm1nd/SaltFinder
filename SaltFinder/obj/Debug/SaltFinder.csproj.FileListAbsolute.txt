@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\bin\Debug\SaltFinder.exe.config
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\bin\Debug\SaltFinder.exe
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\bin\Debug\SaltFinder.pdb
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.g.resources
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.exe
+E:\Dropbox\!Coding\All_in_one\SaltFinder\SaltFinder\obj\Debug\SaltFinder.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Class="SaltFinder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Salt Finder" Height="206.229" Width="342.34" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="Button_Go" Content="Go" HorizontalAlignment="Left" Margin="133,22,0,0" VerticalAlignment="Top" Width="75" Click="Button_Go_Click"/>
+        <TextBox x:Name="TextBox_Password" HorizontalAlignment="Left" Height="23" Margin="47,60,0,0" TextWrapping="Wrap" Text="password" VerticalAlignment="Top" Width="244" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="TextBox_Hash" HorizontalAlignment="Left" Height="23" Margin="47,99,0,0" TextWrapping="Wrap" Text="24530efeccfe589c7e826decf878d72b" VerticalAlignment="Top" Width="244" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="TextBox_Salt" HorizontalAlignment="Left" Height="23" Margin="47,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>
